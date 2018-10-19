@@ -4,12 +4,18 @@
 // @version      0.1
 // @description  Sliver.tv betting bot
 // @author       Janos Hrubos
+// @include      https://www.sliver.tv/win/cod
 // @include      https://www.sliver.tv/win/fortnite
-// @include      https://www.sliver.tv/win/pubg
 // @include      https://www.sliver.tv/win/csgo
+// @include      https://www.sliver.tv/win/lol
+// @include      https://www.sliver.tv/win/wow
+// @include      https://www.sliver.tv/win/hearthstone
+// @match        https://www.sliver.tv/win/cod
 // @match        https://www.sliver.tv/win/fortnite
-// @match        https://www.sliver.tv/win/pubg
-// @match        https://www.sliver.tv/win/cs
+// @match        https://www.sliver.tv/win/csgo
+// @match        https://www.sliver.tv/win/lol
+// @match        https://www.sliver.tv/win/wow
+// @match        https://www.sliver.tv/win/hearthstone
 // @grant        none
 // ==/UserScript==
 
